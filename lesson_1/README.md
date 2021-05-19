@@ -4,7 +4,7 @@ Step 1:
 Create a folder in your local filesystem called cloudtrain  
 
 Step 2: 
-Create a file Called `Dockerfile`  
+Create a file Called [Dockerfile](Dockerfile)  
 With the contents from the file in this folder called Dockerfile
 
 
