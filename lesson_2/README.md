@@ -19,7 +19,7 @@ docker run --rm cloudtrain:lesson_2 cat /home/app/.ssh/id_rsa.pub
 
 4) Add your ssh key to your github account
 
-step 1 (settings.png)
-step 2 (sshkey1.png)
-step 3 (sshkey2.png)
+![step 1](settings.png)
+![step 2](sshkey1.png)
+![step 3](sshkey2.png)
 
