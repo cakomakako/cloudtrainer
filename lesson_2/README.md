@@ -10,7 +10,7 @@ docker build -t cloudtrain:lesson_2 .
 ```
 
 2) Go to  the repo and fork it https://github.com/eric-sd/cloudtrainer
-fork(fork.png)
+![fork](fork.png)
 
 3) Get your ssh key from the container  
 ```
